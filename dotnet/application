@@ -1,0 +1,2 @@
+gh repo clone dotnet-architecture/eShopOnWeb
+.devcontainer/Dockerfile
